@@ -1,0 +1,23 @@
+.person {
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #eee;
+  box-shadow: 3px 2px 2px #ccc;
+  box-sizing: border-box;
+  width: 80%;
+  text-align: center;
+}
+
+.addPerson {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+input {
+  width: 100%;
+}
